@@ -15,6 +15,7 @@
             <option value="$PROJECT_DIR$/fragment" />
             <option value="$PROJECT_DIR$/intent" />
             <option value="$PROJECT_DIR$/listview" />
+            <option value="$PROJECT_DIR$/livedata" />
             <option value="$PROJECT_DIR$/recyclerview" />
             <option value="$PROJECT_DIR$/spinner" />
             <option value="$PROJECT_DIR$/viewmodel" />
